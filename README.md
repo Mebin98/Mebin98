@@ -1,7 +1,12 @@
 ### Hi there 👋
 Hello!👋 I am an ordinary student majoring in physics.
+
+
 I love computers, so I'm double majoring in computer science🌱!
+
+
 Personally, I'm interested in computer graphics, computer vision, medical imaging, and system for new hardware.
+
 
 📫 Email : mzmighty17@gmail.com
 
